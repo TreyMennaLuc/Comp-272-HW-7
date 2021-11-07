@@ -1,6 +1,6 @@
 # Comp-272-HW-7
 
-# Timings
-Algorithm 1 = 
-Algorithm 2 = 
-Algorithm 3 = 
+# Fastest Algorithm - 6B
+- 6B is the fastest algorithm is the best because it has the best worst time complexity of O(N) where the other two are O(N log N) 
+# Results
+ -After letting the program run all day not even my first algorithm finsihed so I answered the questiopn based on what I know about the time complexities of each algorithm
