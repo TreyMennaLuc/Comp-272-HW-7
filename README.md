@@ -6,4 +6,3 @@
  -After letting my program run all day not only my second algorithm finished so I answered the second part based on what I know about the time complexities of each algorithm
  
  Algorithm 2 time(milliseconds): 3294
- 9000
